@@ -1,0 +1,75 @@
+Data Analysis
+  - process of inspecting, cleansing, transforming
+      ~ gather, clean for analysis
+      ~ using pandas
+  - modeling data
+      ~ inferential statistics to find out patterns
+      ~ using pandas, visualizations
+  - discover useful information
+      ~ drive conclusions
+      ~ data to information
+  - informing conclusion, support decision-making
+      ~ evidence of findings
+      ~ reports depending on organizational roles
+
+  > build statistical models and data visualizations
+  > fixing incorrect values and removing invalid data
+  > transforming data into an appropriate data structure
+
+
+Data Analysis Process (non linear, more like a cycle)
+  1. Data Extraction
+    sql
+    webscraping
+    file formats (csv, json, xml)
+    consulting APIs
+    buying data
+    distributed databases
+  2. Data Cleaning
+    missing values and empty data
+    data imputation (substitute missing data)
+    incorrect types
+    incorrect or invalid data
+    outliers and non relevant data
+    statistical sanitation
+  3. Data Wrangling (process of transforming and mapping data from raw to appropriate format)
+    combining data
+    heirarchical data
+    handling categorical data
+    reshaping and transforming structures
+    indexing data for quick access
+    merging, combining, and joining data
+  4. Analysis (extract patterns from data, capture trends or anomalies)
+    exploration
+    building statistical models
+    visualization and representations
+    correlation vs causation analsis
+    hypothesis testing
+    statistical analysis
+    reporting
+  5. Action (how the analyzed data is consumed)
+    building machine learning models
+    feature engineering
+    moving ML into production
+    building ETL (Extract, Transform, Load) pipelines
+    live dashboard and reporting
+    decision making and real-life tests
+
+
+Data Analysis vs Data Science
+- both have intersection
+- Data Analysis is more targetted towards Exploratory Analysis,
+  stronger storytelling and reporting
+
+
+Python Libraries
+- pandas: data analysis
+- matplotlib: visualizations (main visualization library of other libraries)
+- numpy: calculation
+- seaborn: statistical visualization
+- statsmodels: advanced statistical functions
+- scipy: advanced statistical computing (optimization, linear algebra, image processing, etc.)
+- scikit-learn: machine learning
+
+
+Python+SQL = extremely required for Data Analysis
